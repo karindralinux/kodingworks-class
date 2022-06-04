@@ -1,6 +1,6 @@
 # Repo Belajar Bersama KodingWorks Class
 
-1. [Cache with Redis on Golang](url)
+1. [Cache with Redis on Golang](https://github.com/karindralinux/kodingworks-class/tree/main/redis-cache-go)
 
 ### Join Group Telegram
 
